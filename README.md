@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afnan Shaikh</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnan00777" alt="afnan00777" /></a> </p>
+- 👨‍💻  Frontend Developer
 
 - 💬 Ask me about **Angular, Js, Css**
 
