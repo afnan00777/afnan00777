@@ -9,7 +9,7 @@
 
  -🌱 I’m currently learning **React, MongoDb**
 
- -✉️ You can reach me by email **afnanshaikh43@gmail.com**
+ -✉️ You can reach me by [Email](afnanshaikh43@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
