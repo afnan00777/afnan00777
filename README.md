@@ -27,6 +27,5 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan00777&show_icons=true&locale=en" alt="afnan00777" /></p>
