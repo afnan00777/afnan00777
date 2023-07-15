@@ -5,7 +5,7 @@
 
  -💬 Ask me about **Angular, Js, Css**
 
- -🖥️ Vist my [Portfolio.](afnanshaikh43@gmail.com)
+ -🖥️ Vist my [Portfolio.](https://afnan00777.github.io/My-Portfolio/)
 
  -🌱 I’m currently learning **React, MongoDb**
 
